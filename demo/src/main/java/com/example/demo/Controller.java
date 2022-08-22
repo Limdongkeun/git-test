@@ -15,4 +15,9 @@ public class Controller {
     public String test(){
         return "HelloTest!!";
     }
+
+    @GetMapping("/reTest")
+    public String reTest(){
+        return "HelloReTest !!";
+    }
 }
