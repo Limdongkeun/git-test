@@ -15,5 +15,7 @@ public class centerStr {
         System.out.println(answer);
         System.out.println(str.charAt(str.length()/2));
         System.out.println(str.length()/2);
+
     }
+
 }

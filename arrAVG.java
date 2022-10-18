@@ -12,4 +12,5 @@ public class arrAVG {
         answer = answer/ arr.length;
         System.out.println("answer = " + answer);
     }
+
 }
